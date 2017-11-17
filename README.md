@@ -1,2 +1,2 @@
-# rl-for-fun
-Toy projects for reinforcement learning.
+# rl-exercise
+Exercises for reinforcement learning.
